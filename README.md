@@ -2,6 +2,6 @@
 
  
 
-![](./dhcp-ftp.PNG)
+![](./dhcp-ftp.png)
 
 Mensagem: Topologia utilizando os protocolos DHCP e FTP
